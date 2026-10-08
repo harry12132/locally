@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langgraph
+langchain-ollama
+langchain-core
+pydantic>=2.10.0
+rich
+httpx
